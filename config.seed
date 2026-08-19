@@ -9303,7 +9303,6 @@ CONFIG_PACKAGE_watchcat=y
 # CONFIG_PACKAGE_fontconfig is not set
 # end of Font-Utils
 # end of Xorg
-DAE 依赖 eBPF 和 BTF。请在 .config 中添加以下内核配置以启用相关支持：
 
 CONFIG_DEVEL=y
 CONFIG_KERNEL_DEBUG_INFO=y
